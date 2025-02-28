@@ -1,1 +1,7 @@
-# Test 1
+# Test
+
+Manim test.
+
+## Author
+JC
+
